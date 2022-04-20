@@ -11,6 +11,12 @@ OR
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rsktg/TheRealPhoenixBot.git)
 
+
+Railway deploy
+
+
+[![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/kirjga-74/TheRealPhoenixBot-Deploy&envs=SESSION_NAME,BOT_TOKEN,GROUP_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
+
 ### Note
 We don't support Heroku anymore. If you can't get it working on Heroku, please don't come to the support chat and complain/ask for assistance.
 
